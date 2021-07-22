@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kovacsadam23
-- 🌱 I’m currently learning Computer Science Engineering
+- 🌱 I learn Computer Science Engineering
 
 <!---
 kovacsadam23/kovacsadam23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
