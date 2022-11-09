@@ -4,4 +4,4 @@
 - 🌐 https://kovacsadam23.github.io/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kovacsadam23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-(empty because of private repos)
+(incomplete because of private repos)
